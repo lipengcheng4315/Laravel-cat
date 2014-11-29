@@ -3,7 +3,6 @@
 
 <footer class="footer ">
     <div class="container">
-        <hr>
         <div class="row footer-top">
             <div class="col-sm-6 col-lg-6">
                 <h2>
